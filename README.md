@@ -1,6 +1,6 @@
 Showcase of [LightningChart JS](https://www.arction.com/lightningchart-js/) use case with Google Static Maps API to implement simplistic geospatial data visualization solutions.
 
-Please see related brief technical article to get familiar with the subject.
+Please see [related brief technical article](https://blog.arction.com/easy-geospatial-data-visualization-with-lightningchart-js-and-google) to get familiar with the subject.
 
 <Link pending>
 
